@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Amer
+MSc Electrical & Computer Engineering @ Lakehead University  
+Software Engineer | Building AI & IoT Systems  
 
-<!--
-**AmerSaad001/AmerSaad001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Projects
+- [PDF to Audiobook](#) — Converts PDFs into AI-generated audiobooks  
+- [Agile-SHEMS Project](#) — Smart Energy Management using Blockchain  
+- [Packet Scheduling Analysis](#) — C++ simulation for traffic flow
 
-Here are some ideas to get you started:
+### 🧠 Interests
+- AI applications in embedded and IoT systems  
+- Automation and efficient system design  
+- Clean, scalable Python development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- 📍 Thunder Bay, Canada  
+- ✉️ amerkadi001@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/amer-saad-87203b2b0)
